@@ -1,0 +1,18 @@
++-----------------------------------------------------------------------------+
+| Nir Turjeman, 039622543, nir.tur@gmail.com                                  |
+| Yaniv Gal, 066165184, yanivgal123@gmail.com 			                      |
++-----------------------------------------------------------------------------+
+
+                          Project 2: creating routing table 
+                          ------------------------------------ 
+  
+
+Submitted Files
+---------------
+README - This file.
+MyEntity.java - this class implements the entities in the simulator and the building of the routing table according to the Bellman Ford (decentralized) algorithm.
+
+
+Remarks
+-------
+- 
